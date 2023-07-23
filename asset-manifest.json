@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IEEE-Main/static/css/main.7104f2ba.css",
+    "main.js": "/IEEE-Main/static/js/main.8b9d401d.js",
+    "index.html": "/IEEE-Main/index.html",
+    "main.7104f2ba.css.map": "/IEEE-Main/static/css/main.7104f2ba.css.map",
+    "main.8b9d401d.js.map": "/IEEE-Main/static/js/main.8b9d401d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7104f2ba.css",
+    "static/js/main.8b9d401d.js"
+  ]
+}
