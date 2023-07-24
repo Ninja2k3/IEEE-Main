@@ -9,15 +9,16 @@ You can find the site hosted on ninja2k3..github.io/IEEE
 I have used ReactJS and tailwind css.
 
 Desktop view :
-![intro](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/12658fe0-9305-4f63-847b-92db18ce8b1a)
+![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/d3a4675f-dee3-4ae2-9c60-dd9f2cdd8c47)
 
-![about](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/1b42ee5c-da8e-4e8b-82ce-b8666956050c)
+![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/72a65399-8a23-4d2c-9efc-96cb9a96ed8a)
 
-![timeline](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/668588b2-f088-4681-8786-3a149e8fd68f)
+![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/e8f57115-045c-407d-84df-0e779bb87b17)
 
-![Venue](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/669678fc-8016-457d-b6d1-0aac9911bfa4)
+![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/f04deafc-97f5-4b05-8053-3209a3288fc5)
 
-![Images+footer](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/4dfb2523-cfa4-4185-a930-d0d093a354d3)
+![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/405dedb0-c79c-4c60-84d1-4a8d7d98b75f)
+
 
 Mobile view :
 ![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/de2bef77-74c2-4742-8c91-ae88fb3e5457)
