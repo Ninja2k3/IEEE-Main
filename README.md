@@ -21,17 +21,14 @@ Desktop view :
 
 
 Mobile view :
-![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/de2bef77-74c2-4742-8c91-ae88fb3e5457)
+![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/8b048c25-4e6e-49b0-b95b-0112037475aa)
 
-![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/807e90e3-b29a-46ec-ac4c-00d4f39109ff)
+![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/6a83a35b-1a5a-40c4-93e9-85907126b061)
 
-![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/93174fb9-a5e9-4dbd-816a-90bef7731666)
+![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/bddd8e2d-1bd3-40c4-b6e8-c9a862e659f3)
 
-![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/30eedae2-014e-4f99-89d3-ca7f0609ad91)
+![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/058f4bc0-2f36-4564-b48c-8e14c6eda4be)
 
-![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/ee73f5d7-5abe-40e4-9c48-4d57fa1c6d4d)
+![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/07882e1d-8f19-425f-b0b3-1eab7039b9a7)
 
-![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/211eeb65-410a-4a0d-be17-71ff28b1e1df)
-
-![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/fb81ac30-ddf9-4346-bd3a-b2a813f4ace6)
-
+![image](https://github.com/Ninja2k3/IEEE-Main/assets/111201410/27bb2ce2-096d-4d2c-acd1-0e0a5c0f0cdd)
