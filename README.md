@@ -2,7 +2,7 @@ This is my submission for IEEE RVCE WEB TEAM selection process
 Niranjan.S
 4th Semester
 
-I have recreated the IEEE site for my submission as i found it fun, the site is completely responsive. Screenshots attached.
+The site is completely responsive. Screenshots attached.
 You can find the site hosted on ninja2k3..github.io/IEEE
 I have used ReactJS and tailwind css.
 
