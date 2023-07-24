@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/IEEE-Main/static/css/main.6f5acd2d.css",
-    "main.js": "/IEEE-Main/static/js/main.95a9d591.js",
+    "main.css": "/IEEE-Main/static/css/main.03eb4f6c.css",
+    "main.js": "/IEEE-Main/static/js/main.39c87f8a.js",
     "index.html": "/IEEE-Main/index.html",
-    "main.6f5acd2d.css.map": "/IEEE-Main/static/css/main.6f5acd2d.css.map",
-    "main.95a9d591.js.map": "/IEEE-Main/static/js/main.95a9d591.js.map"
+    "main.03eb4f6c.css.map": "/IEEE-Main/static/css/main.03eb4f6c.css.map",
+    "main.39c87f8a.js.map": "/IEEE-Main/static/js/main.39c87f8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f5acd2d.css",
-    "static/js/main.95a9d591.js"
+    "static/css/main.03eb4f6c.css",
+    "static/js/main.39c87f8a.js"
   ]
 }
