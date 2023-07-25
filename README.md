@@ -5,7 +5,7 @@ Niranjan.S
 4th Semester
 
 The site is completely responsive. Screenshots attached.
-You can find the site hosted on ninja2k3..github.io/IEEE
+You can find the site hosted on ninja2k3.github.io/IEEE-Main
 I have used ReactJS and tailwind css.
 
 Desktop view :
